@@ -37,24 +37,24 @@ def game_hash
       :slam_dunks=>15
       },
       {:player_name =>mason_plumlee
-      :number=>0,
-      :shoe=>
-      :points=>
-      :rebounds=>
-      :assists=>
-      :steals=>
-      :blocks=>
-      :slam_dunks=>
+      :number=>1,
+      :shoe=>19,
+      :points=>26,
+      :rebounds=>11,
+      :assists=>6,
+      :steals=>3,
+      :blocks=>8,
+      :slam_dunks=>5
       }, 
       {:player_name =>jason_terry
-      :number=>
-      :shoe=>
-      :points=>
-      :rebounds=>
-      :assists=>
-      :steals=>
-      :blocks=>
-      :slam_dunks=>
+      :number=>31,
+      :shoe=>15,
+      :points=>19,
+      :rebounds=>2,
+      :assists=>2,
+      :steals=>4,
+      :blocks=>11,
+      :slam_dunks=>1 
       },
       ]}, 
   :away=>
@@ -62,54 +62,54 @@ def game_hash
     :colors=>["Turquoise", "Purple"], 
     :players=>[
       {:player_name =>jeff_adrien,
-      :number=>
-      :shoe=>
-      :points=>
-      :rebounds=>
-      :assists=>
-      :steals=>
-      :blocks=>
-      :slam_dunks=>
+      :number=>4,
+      :shoe=>18,
+      :points=>10,
+      :rebounds=>1,
+      :assists=>1,
+      :steals=>2,
+      :blocks=>7,
+      :slam_dunks=>2 
       }, 
       {:player_name =>bismack_biyombo,
-      :number=>
-      :shoe=>
-      :points=>
-      :rebounds=>
-      :assists=>
-      :steals=>
-      :blocks=>
-      :slam_dunks=>
+      :number=>0,
+      :shoe=>16,
+      :points=>12,
+      :rebounds=>4,
+      :assists=>7,
+      :steals=>22,
+      :blocks=>15,
+      :slam_dunks=>10
       }, 
       {:player_name =>desagna_diop,
-      :number=>
-      :shoe=>
-      :points=>
-      :rebounds=>
-      :assists=>
-      :steals=>
-      :blocks=>
-      :slam_dunks=>
+      :number=>2,
+      :shoe=>14,
+      :points=>24,
+      :rebounds=>12,
+      :assists=>12,
+      :steals=>4,
+      :blocks=>5,
+      :slam_dunks=>5 
       }, 
       {:player_name =>ben_gordon,
-      :number=>
-      :shoe=>
-      :points=>
-      :rebounds=>
-      :assists=>
-      :steals=>
-      :blocks=>
-      :slam_dunks=>
+      :number=>8,
+      :shoe=>15,
+      :points=>33,
+      :rebounds=>3,
+      :assists=>2,
+      :steals=>1,
+      :blocks=>1,
+      :slam_dunks=>0
       }, 
       {:player_name =>kemba_walker,
-      :number=>
-      :shoe=>
-      :points=>
-      :rebounds=>
-      :assists=>
-      :steals=>
-      :blocks=>
-      :slam_dunks=>
+      :number=>33,
+      :shoe=>15,
+      :points=>6,
+      :rebounds=>12,
+      :assists=>12,
+      :steals=>7,
+      :blocks=5,>
+      :slam_dunks=>12
       },
       ]}
   }
