@@ -36,7 +36,7 @@ def game_hash
       :blocks=>1,
       :slam_dunks=>15
       },
-      {:player_name =>mason_plumlee
+      {:player_name =>mason_plumlee,
       :number=>1,
       :shoe=>19,
       :points=>26,
@@ -46,7 +46,7 @@ def game_hash
       :blocks=>8,
       :slam_dunks=>5
       }, 
-      {:player_name =>jason_terry
+      {:player_name =>jason_terry,
       :number=>31,
       :shoe=>15,
       :points=>19,
@@ -108,7 +108,7 @@ def game_hash
       :rebounds=>12,
       :assists=>12,
       :steals=>7,
-      :blocks=5,>
+      :blocks=5,
       :slam_dunks=>12
       },
       ]}
