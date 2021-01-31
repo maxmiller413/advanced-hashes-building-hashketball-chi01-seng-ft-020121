@@ -37,7 +37,7 @@ def game_hash
       :slam_dunks=>15
       },
       {:player_name =>mason_plumlee
-      :number=>
+      :number=>0,
       :shoe=>
       :points=>
       :rebounds=>
